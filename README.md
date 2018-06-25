@@ -6,7 +6,7 @@ She gave us the inspiration of this project and recommand us how to make it kick
 The co-supervisor is ZHanghan Tang, a phD student of Melbourne uni, who taught several foudmental knowledge of this project;
 Ok, let's see what did we do in this project;
 
-1.
+I.
 We are talking about the Cyber Security, which describe a scenario a cyber hacker comes and get involveed a system,          
 the system could be any kinds of cyber-physical system which involves cyber connection and physical machine. In our          
 concept, this system could be an driverless car system (which we actually simulated in our project) or a drone controlled    
@@ -20,7 +20,7 @@ core task of this project is to develop a security solution of these kind of cyb
 ability of detectiong the cyber attack(the wrong sensoring data) and make corresponding correction, which is to correct the  
 tampered data. This is the big picture of how our proeject works.                                                            
                 
-2.
+II.
 Now it's time to introduce the content of what we have done for this project:                                                   
 1. We build a detection algorithm, the algorithm                                                                               
 deploys a Kalman predictor to detect the cyber attack happen on the sensors. It can predict the range of the sensor measurement
@@ -28,7 +28,7 @@ for next sample based on the samples in the past, whose fundmental logic is Baye
 2. We deliver a correction algorithm which utlise the thinking of sensor fusion, for more you can view the capstoen report at below,
 I have also upload a pdf version of our capstone project.
 
-3.
+III.
 Demonstration is important, in this project we build our algorithm by MATLAB and program in a LEGO NXT car model. Which can demon-
 strates the our Capstone project. To completely make the deonstration, we use the NXT robot Toolbo developed by RWTH - Mindstorms NXT Toolbox group (http://www.mindstorms.rwth-aachen.de/).
 
