@@ -1,0 +1,15 @@
+RWTH - Mindstorms NXT Toolbox version 4.07 (stable)
+
+ 
+    * Bugfixes:
+          o Fixed misleading description of NXTMotor::WaitFor syntax (Ticket #87)
+		  
+    * Improvements / changes:
+          o For Windows 64 Bit you need Matlab 2011b or higher and the Instrument Control Toolbox V3.0 or higher
+             
+    * Known bugs and limitations:
+          o MacOs support is not tested
+          o For Windows 64 Bit: while loading libusb designated warnings are supressed (Ticket #79)
+          o For an up-to-date list of bugs, issues and feature requests, see http://www.mindstorms.rwth-aachen.de/trac/report
+
+    * February 8th, 2012
