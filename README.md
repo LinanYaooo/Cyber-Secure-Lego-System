@@ -1,9 +1,9 @@
 # Cyber-Secure-Lego-System
 My unimelb Capstone project, playing around sensor attacker &amp; security solution;
 I'll attach my project reoprt, but firstly, I am gonna talk about some details about this project;
-This project is leat by my supervisor Prof Margreta Kuijper, who is a well-known researcher and professor in Melbourne uni;
-She gave us the inspiration of this project and recommand us how to make it kick start;
-The co-supervisor is ZHanghan Tang, a phD student of Melbourne uni, who taught several foudmental knowledge of this project;
+This project was leaded by my supervisor Prof Margreta Kuijper, who is a well-known researcher and professor in Melbourne uni;
+She gave us the inspiration of this project and recommand us how to make it in order to kick start;
+The co-supervisor is ZHanghan Tang, a phD student of Melbourne uni, who insighted me with several foudmental knowledge of this project;
 Ok, let's see what did we do in this project;
 
 I.
